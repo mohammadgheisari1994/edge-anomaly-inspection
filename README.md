@@ -42,7 +42,7 @@ Latency = model only (image in, patch scores out), mean of repeated single-image
 ## Run it
 
 ```bash
-git clone <this repo> && cd edge-anomaly-inspection
+git clone https://github.com/mohammadgheisari1994/edge-anomaly-inspection.git && cd edge-anomaly-inspection
 ./run_all.sh            # VisA pcb1 by default
 ./run_all.sh pcb1 pcb2  # or several categories
 ```
