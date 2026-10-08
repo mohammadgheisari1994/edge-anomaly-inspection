@@ -1,0 +1,7 @@
+.venv/
+data/
+__pycache__/
+*.onnx
+*.engine
+results/*/results.json
+run.log
